@@ -1,1 +1,2 @@
- Welcome to the E-Learning Application - Unlock your learning potential with us.
+ Welcome to the E-Learning Application.
+ 
